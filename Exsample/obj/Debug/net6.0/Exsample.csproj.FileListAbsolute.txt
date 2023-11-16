@@ -1,0 +1,15 @@
+D:\Lesson\Lesson16.11.23\16.11.23\Exsample\bin\Debug\net6.0\Exsample.exe
+D:\Lesson\Lesson16.11.23\16.11.23\Exsample\bin\Debug\net6.0\Exsample.deps.json
+D:\Lesson\Lesson16.11.23\16.11.23\Exsample\bin\Debug\net6.0\Exsample.runtimeconfig.json
+D:\Lesson\Lesson16.11.23\16.11.23\Exsample\bin\Debug\net6.0\Exsample.dll
+D:\Lesson\Lesson16.11.23\16.11.23\Exsample\bin\Debug\net6.0\Exsample.pdb
+D:\Lesson\Lesson16.11.23\16.11.23\Exsample\obj\Debug\net6.0\Exsample.csproj.AssemblyReference.cache
+D:\Lesson\Lesson16.11.23\16.11.23\Exsample\obj\Debug\net6.0\Exsample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lesson\Lesson16.11.23\16.11.23\Exsample\obj\Debug\net6.0\Exsample.AssemblyInfoInputs.cache
+D:\Lesson\Lesson16.11.23\16.11.23\Exsample\obj\Debug\net6.0\Exsample.AssemblyInfo.cs
+D:\Lesson\Lesson16.11.23\16.11.23\Exsample\obj\Debug\net6.0\Exsample.csproj.CoreCompileInputs.cache
+D:\Lesson\Lesson16.11.23\16.11.23\Exsample\obj\Debug\net6.0\Exsample.dll
+D:\Lesson\Lesson16.11.23\16.11.23\Exsample\obj\Debug\net6.0\refint\Exsample.dll
+D:\Lesson\Lesson16.11.23\16.11.23\Exsample\obj\Debug\net6.0\Exsample.pdb
+D:\Lesson\Lesson16.11.23\16.11.23\Exsample\obj\Debug\net6.0\Exsample.genruntimeconfig.cache
+D:\Lesson\Lesson16.11.23\16.11.23\Exsample\obj\Debug\net6.0\ref\Exsample.dll
